@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RegionsApp</string>
+    <string name="details_top_bar_title">Информация о регионе</string>
+    <string name="views_count">" просмотров"</string>
+</resources>
